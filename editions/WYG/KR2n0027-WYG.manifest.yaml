@@ -1,0 +1,46 @@
+canonical_identifier: bkk:krp/KR2n0027/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR2n0027/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 古刻叢鈔
+  date: '2015-08-24 22:54:45.881646'
+  source:
+    repository: kanripo
+    path: KR2n0027
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR2n0027_000-WYG.yaml, hash: 'sha256:2b4b66a9d8621b54ace8d3cf4324f06651b065cb9b8acd0e573c9953f2b05bfb'}
+  - {seq: 1, filename: KR2n0027_001-WYG.yaml, hash: 'sha256:6076fe637804797d984e3de88b53c7eae180c6412c1500029799b8eae13d856e'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR2n0027_000-WYG.markers.yaml, hash: 'sha256:423b94b27121b19fb97c399dd6e91640d52e3d209e8f1566f8294c31e615afa9'}
+  - {seq: 1, role: markers, filename: assets/KR2n0027_001-WYG.markers.yaml, hash: 'sha256:f936c483210421e472eec2d043b09270b504c737041aa13485f85f3956277121'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR2n0027_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 372
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR2n0027_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 11189
+  label: 古刻叢鈔
+  type: section
+  level: 1
+hash: sha256:58530ac72a0f8f510f04b0da0d4fb0269e4ae6483d5e72a6e2aa9b50c02a465b
