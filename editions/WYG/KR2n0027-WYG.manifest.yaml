@@ -20,8 +20,8 @@ assets:
   - {seq: 0, filename: KR2n0027_000-WYG.yaml, hash: 'sha256:2b4b66a9d8621b54ace8d3cf4324f06651b065cb9b8acd0e573c9953f2b05bfb'}
   - {seq: 1, filename: KR2n0027_001-WYG.yaml, hash: 'sha256:6076fe637804797d984e3de88b53c7eae180c6412c1500029799b8eae13d856e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2n0027_000-WYG.markers.yaml, hash: 'sha256:423b94b27121b19fb97c399dd6e91640d52e3d209e8f1566f8294c31e615afa9'}
-  - {seq: 1, role: markers, filename: assets/KR2n0027_001-WYG.markers.yaml, hash: 'sha256:f936c483210421e472eec2d043b09270b504c737041aa13485f85f3956277121'}
+  - {seq: 0, role: markers, filename: assets/KR2n0027_000-WYG.markers.yaml, hash: 'sha256:ab557b140d1f179ebec355ef382834b362895a2ff8433ee50218a784486003d6'}
+  - {seq: 1, role: markers, filename: assets/KR2n0027_001-WYG.markers.yaml, hash: 'sha256:7f909bbca184134dff311b0f230e5861f96a92d8fc645ddbc2874611ace6d905'}
 table_of_contents:
 - ref:
     seq: 0
@@ -43,4 +43,4 @@ table_of_contents:
   label: 古刻叢鈔
   type: section
   level: 1
-hash: sha256:58530ac72a0f8f510f04b0da0d4fb0269e4ae6483d5e72a6e2aa9b50c02a465b
+hash: sha256:815191b64fadca2dceec747f90515b59f430a33b0dc22eea3aa564d8628d7813
